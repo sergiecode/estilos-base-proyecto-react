@@ -1,3 +1,5 @@
+Link al curso de React: [REACT DESDE CERO por Sergie Code](https://youtu.be/ladwC6Lrs-M)
+
 # Estilos para hacer Aplicación de Películas y Aplicación de Climas
 
 Este repositorio contiene los estilos CSS necesarios para desarrollar una Aplicación de Películas y una Aplicación de Climas utilizando React. Estos estilos están diseñados para ser utilizados en conjunción con tutoriales en video disponibles en mi canal de YouTube.
